@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "stdbool.h": "c",
+        "compare": "c",
+        "type_traits": "c",
+        "cstdio": "c",
+        "*.tcc": "c",
+        "cmath": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}

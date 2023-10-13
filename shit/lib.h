@@ -1,0 +1,2 @@
+
+void square(long i);
